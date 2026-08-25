@@ -1,2 +1,3 @@
-# github-achievements
-Showcase of open-source workflows and GitHub community achievements.
+# GitHub Community Achievements
+
+Automated workflow verification 1.
